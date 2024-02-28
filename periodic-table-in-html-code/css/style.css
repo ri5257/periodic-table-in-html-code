@@ -89,6 +89,7 @@ body {
 h1, h3 {
   font-family: 'Tauri', sans-serif;
   letter-spacing: -.05em;
+  padding-bottom: 5%;
 }
 
 #wrapper h1 {
